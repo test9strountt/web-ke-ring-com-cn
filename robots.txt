@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://test9strountt.github.io/web-ke-ring-com-cn/sitemap.xml
